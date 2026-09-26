@@ -67,6 +67,18 @@
 8. Исследовательский анализ данных.
 9. Выводы.
 
+```text
+public_caterind_msk/
+├── .gitignore
+├── README.md
+├── data/
+    ├── rest_info.csv
+    └── rest_price.csv
+├── notebooks/
+    └── public_catering_msk.ipynb
+└── images/
+```
+
 ---
 
 ## Загрузка данных и знакомство с ними
