@@ -1,5 +1,18 @@
 # Исследование заведений рынка общественного питания Москвы
 
+```text
+public_caterind_msk/
+├── .gitignore
+├── README.md
+├── data/
+    ├── rest_info.csv
+    └── rest_price.csv
+├── notebooks/
+    └── public_catering_msk.ipynb
+└── images/
+```
+
+
 ## Цели и задачи проекта
 **Цель:** Провести исследовательский анализ данных заведений общественного питания в Москве.
 
@@ -67,17 +80,6 @@
 8. Исследовательский анализ данных.
 9. Выводы.
 
-```text
-public_caterind_msk/
-├── .gitignore
-├── README.md
-├── data/
-    ├── rest_info.csv
-    └── rest_price.csv
-├── notebooks/
-    └── public_catering_msk.ipynb
-└── images/
-```
 
 ---
 
