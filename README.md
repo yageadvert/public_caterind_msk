@@ -9,7 +9,8 @@ public_caterind_msk/
     └── rest_price.csv
 ├── notebooks/
     └── public_catering_msk.ipynb
-└── images/
+├── images/
+└── requirements.txt
 ```
 
 
